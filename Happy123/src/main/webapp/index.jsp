@@ -19,6 +19,7 @@
 열허분~ 제발 방명록 남겨주세요.
 <br><br><br>
 <img src="img/hello.gif">
+아이에우에오
 </div>
 </body>
 </html>
