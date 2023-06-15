@@ -15,7 +15,7 @@
 </head>
 <body>
 <div class="container pt-3">
-
+금동준 첫 갱입니다.
 </div>
 </body>
 </html>
