@@ -15,7 +15,10 @@
 </head>
 <body>
 <div class="container pt-3">
-
+<h4>방명록</h4>
+열허분~ 제발 방명록 남겨주세요.
+<br><br><br>
+<img src="img/hello.gif">
 </div>
 </body>
 </html>
