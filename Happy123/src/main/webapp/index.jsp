@@ -11,7 +11,7 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-<title>ㅁㄴㅇㄴㅁㅇㅁㄴ titlㄴㅇㅁe hㅇㄴㅁere</title>
+<title>TomaHawk 연습 jsp</title>
 </head>
 <body>
 <div class="container pt-3">
@@ -21,10 +21,9 @@
 절대 어제를ㅁㄴㅇㅇ후회하지 마라. 인생은 오늘의 ㅇㅁㄴㅇㅁㄴ내 안에 있고 내일은 스스로 만드는ㅇㅁㄴㅇㅁㄴㅇ것이다. -L론허바드
 <h4>방명록</h4>
 열허분~ 제발 방명록 남겨주세요.
-ㅇㄴㅁㅇㅁㄴㅇㅁㄴㅇㄴㅁㅇ
-<br><br><br>
 <img src="img/hello.gif">
 아이에우에오
+ㄴㅇㄹㄴㅇㅇ
 </div>
 </body>
 </html>
