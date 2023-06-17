@@ -18,6 +18,9 @@
 	alert("1. main을 그대로 복제한 mainClone branch 생성.");
 	confirm("2. mainClone branch에서 내가 사용할 브랜치 kdj230617 생성.")
 	commit 후, mainClone 브랜치로 push 해보기.
+	--- 정정 ---
+	kdj230617 브랜치에서 commit/push 후, mainClone에서 merge	=> 성공한듯?
+	
 </script>
 </div>
 </body>
